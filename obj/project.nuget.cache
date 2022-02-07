@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Ng9iC6mQldV9soNBX9AHj6BH6SMNnR9E3S12qeh0c8ZrU9W9WayLh5XQp2A2eI7NU2syDWmrF9Bk1Rae3xbQg==",
+  "success": true,
+  "projectFilePath": "/home/limsean/Documents/Coding Projects/C# Workspace/C200/C200.csproj",
+  "expectedPackageFiles": [
+    "/home/limsean/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/limsean/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
